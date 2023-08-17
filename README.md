@@ -24,7 +24,7 @@ _The seal installed in the bottle lid._
 
 Designed to adapt the use of a Pecon XXX C02 cover to cover multiwell plates.  This was required after noticing condensation was leaking from where the bottle and lid made came in contact after 2 years of use.  This polyurathane seal prevents the leak.
 
-It was printed at draft resolution with Ultimaker Tough PLA filament and adhesion. The adhesion brim was kept after printinga sit allows magnets to be used to hold the print in place on the stage.
+It was printed at draft resolution with Ultimaker Tough PLA filament and adhesion. The adhesion brim was kept after printing as it allows small magnets to be used to hold the print in place on the microsope stage.
 
 ![AxioObserverZ1 C02 cover spacer](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 

@@ -3,7 +3,7 @@
 
 A collection of STL files that can be used to print microscopy parts.
 
-## Print settings
+## Slicing & print settings
 
 All models were sliced using the default settings in Cura & printed on an Ultimaker S3 using either Tough PLA or TPU95A filament.
     

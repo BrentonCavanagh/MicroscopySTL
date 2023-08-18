@@ -14,9 +14,7 @@ Designed to fit the humidifier bottle on a Zeiss Celldiscoverer 7.  This was req
 
 It was printed at 0.1mm resolution with Ultimaker TPU95a filament and adhesion. The adhesion brim was removed after printing.
 
-
-
-![CD7 bottle seal](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![CD7 humidifier bottle panel](https://github.com/BrentonCavanagh/MicroscopySTL/assets/32094152/c9b70827-2138-4a8a-a900-0387ff503dd3)
 
 _The seal installed in the bottle lid._
 

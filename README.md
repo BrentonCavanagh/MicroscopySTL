@@ -10,7 +10,7 @@ All models were sliced using the default settings in Cura & printed on an Ultima
 ## Model details
 **CD7 bottle seal:**   [Download](https://github.com/BrentonCavanagh/MicroscopySTL/blob/main/CD7%20BOTTLE%20Simple%20Seal.stl)
 
-Designed to fit the humidifier bottle on a Zeiss Celldiscoverer 7.  This was required after noticing condensation was leaking from where the bottle and lid made came in contact after 2 years of use.  This polyurathane seal prevents the leak.
+Designed to fit the humidifier bottle on a Zeiss Celldiscoverer 7.  This was required after noticing condensation was leaking from where the bottle and lid made contact after 2 years of use.  This polyurathane seal prevents the leak.
 
 It was printed at 0.1mm resolution with Ultimaker TPU95a filament and adhesion. The adhesion brim was removed after printing.
 

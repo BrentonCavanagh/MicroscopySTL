@@ -5,14 +5,14 @@ A collection of STL files that can be used to print microscopy parts.
 
 ## Slicing & print settings
 
-All models were sliced using the default settings in Cura & printed on an Ultimaker S3 using either Tough PLA or TPU95A filament.
+All models were sliced using the default settings in [Cura](https://ultimaker.com/learn/welcome-to-ultimaker-cura-3-0/) & printed on an [Ultimaker S3](https://ultimaker.com/3d-printers/s-series/ultimaker-s3/) using either Tough PLA or TPU95A filament.
     
 ## Model details
 **CD7 bottle seal:**   [Download](https://github.com/BrentonCavanagh/MicroscopySTL/blob/main/CD7%20BOTTLE%20Simple%20Seal.stl)
 
-Designed to fit the humidifier bottle on a Zeiss Celldiscoverer 7.  This was required after noticing condensation was leaking from where the bottle and lid made contact after 2 years of use.  This polyurathane seal prevents the leak.
+Designed to fit the humidifier bottle on a [Zeiss Celldiscoverer 7](https://www.zeiss.com/microscopy/en/products/imaging-systems/celldiscoverer-7.html).  This was required after noticing condensation was leaking from where the bottle and lid made contact after 2 years of use.  This polyurathane seal prevents the leak.
 
-It was printed at 0.1mm resolution with Ultimaker TPU95a filament and adhesion. The adhesion brim was removed after printing.
+It was printed at 0.1mm resolution with [Ultimaker TPU 95A](https://ultimaker.com/materials/s-series-tpu-95a/) filament and adhesion. The adhesion brim was removed after printing.
 
 ![CD7 humidifier bottle panel](https://github.com/BrentonCavanagh/MicroscopySTL/assets/32094152/c9b70827-2138-4a8a-a900-0387ff503dd3)
 
